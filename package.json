@@ -9,9 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@maxmind/geoip2-node": "1.6.0",
+    "@next/bundle-analyzer": "11.1.2",
+    "@sentry/nextjs": "^6.13.3",
+    "@zeit/next-source-maps": "0.0.3",
+    "amp-html": "1.0.1",
+    "lodash-es": "4.17.21",
     "next": "11.1.2",
+    "next-compose-plugins": "2.2.1",
+    "next-images": "1.8.1",
+    "next-transpile-modules": "8.0.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "webpack": "5.58.1"
   },
   "devDependencies": {
     "@types/react": "17.0.29",
